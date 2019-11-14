@@ -1,0 +1,24 @@
+{
+  "name": "react-ant",
+  "version": "1.0.0",
+  "description": "This is me learning coding React with Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotoracle/react-ant.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "UI"
+  ],
+  "author": "hotoracle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hotoracle/react-ant/issues"
+  },
+  "homepage": "https://github.com/hotoracle/react-ant#readme"
+}
